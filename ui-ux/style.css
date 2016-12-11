@@ -1,0 +1,56 @@
+@font-face {
+    font-family: 'blokk';
+    src: url('./fonts/blokkregular-webfont.woff2') format('woff2'),
+    url('./fonts/blokkregular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+.container_bg {
+    background: #000000;
+    margin-bottom: 30px;
+    padding: 50px 0;
+}
+
+.ui_one {
+    background: #99cda9;
+    height: 200px;
+    border-radius: 4px;
+}
+
+.ui_text {
+    font-family: 'blokk', serif;
+    color: #424242;
+}
+
+.sidebar_one {
+    background: #99cda9;
+    height: 180px;
+    padding: 10px;
+    border-radius: 4px;
+    line-height: 1.5;
+    margin-bottom: 30px;
+}
+
+.sidebar_two {
+    background: #99cda9;
+    height: 250px;
+    padding: 10px;
+    border-radius: 4px;
+    line-height: 1.5;
+    margin-bottom: 30px;
+}
+
+.cta {
+    margin-bottom: 30px;
+}
+
+.footer {
+    background: #8c8c8c;
+    text-align: center;
+}
+
+.footer p {
+    padding: 30px 0;
+}
